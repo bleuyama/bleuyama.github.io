@@ -1,5 +1,5 @@
 % Bleuyama 的学习笔记 Hosting
-% bleuyama
+% 
 %
 
 ## Hello
