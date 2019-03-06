@@ -7,3 +7,8 @@
 
 ## List
 [走向代数拓扑](./Notes/Algebraic-Topology/)
+
+## 联系作者
+Telegram [bleuyama](https://t.me/bleuyama/)
+
+E-Mail bleuyama[this is where you should put @]protonmail.com
