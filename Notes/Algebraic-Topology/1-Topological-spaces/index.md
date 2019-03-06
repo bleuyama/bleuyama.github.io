@@ -153,7 +153,7 @@ $$
 
   $\stackrel{2}\implies$：当 $X$ 中每个点都有邻域基后，按照 **定义 2** 定义开集即可得到拓扑 $\mathcal{T}$，使 $X$ 成为一个 $\mathcal{T}$-空间．
 
-  $\stackrel{3}\implies$：当 $X$ 有了一个拓扑之后，按照 **练习 3** 中的办法定义领域系统即可让 $X$ 成为一个 $\mathcal{N}$-空间．
+  $\stackrel{3}\implies$：当 $X$ 有了一个拓扑之后，按照 **练习 3** 中的办法定义邻域系统即可让 $X$ 成为一个 $\mathcal{N}$-空间．
 
   所以这三种定义方式是等价的．$\blacksquare$
 </p>
